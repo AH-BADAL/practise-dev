@@ -1,0 +1,173 @@
+Body{
+ 
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+i{
+  padding:6px;
+  border-radius: 5px;
+  color:black;
+  font-size: 25px;
+ 
+  
+}
+i:hover{
+  color:dimgray;
+  background:skyblue;
+}
+#main-id{
+  font-family: cursive;
+  font-size:40px;
+}
+.main-div,pre{
+  font-family: cursive;
+  font-size: 25px;
+}
+.hello-class{
+  text-align:center;
+  margin: 20px;
+  color:tomato;
+  text-decoration: none;
+}
+button{
+  font-family:'Times New Roman', Times, serif;
+  padding: 15px;
+  background:salmon;
+  color: white;
+  border-radius: 8px;
+  margin-top:20px ;
+  margin-bottom: 20px;
+
+}
+button:hover{
+  background:skyblue;
+}
+
+
+
+
+
+
+
+
+
+.Hello-Section{
+  background:skyblue;
+}
+.Hello-Section,h1{
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+
+.img-tag{
+  display: flex;
+  justify-content: center;
+  margin-top:10px;
+  
+}
+.section-rapid{
+  background:skyblue;
+  display: flex; 
+  justify-content: center;
+  max-resolution: 20px;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.main-rapid{
+  height:370px;
+  width: 350px;
+  color: black;
+  border: 5px solid springgreen;
+  background:tomato;
+  margin: 5px;
+  border-radius: 10px;
+  box-shadow: 0,0 20px skyblue;
+  animation: 4s linear infinite;
+}
+.hello-div{
+  height:370px;
+  width: 350px;
+  color: black;
+  border: 5px solid salmon;
+  background:green;
+  margin: 5px;
+  border-radius: 10px;
+
+}
+.hi-div{
+  height:370px;
+  width: 350px;
+  color: black;
+  border: 5px solid yellow;
+  background:red;
+  margin: 5px;
+  border-radius: 10px;
+
+
+}
+.kire-div{
+  height:370px;
+  width: 350px;
+  color: black;
+  border: 5px solid black;
+  background:yellow;
+  margin: 5px;
+  border-radius: 10px;
+
+
+}
+
+.x-class{
+  font-family:sans-serif;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+
+.name-class{
+  font-family:sans-serif;
+  font-size: 50px;
+  margin-bottom: 20px;
+
+}
+.ho-re{
+  font-family:sans-serif;
+  font-size: 50px;
+  margin-bottom: 20px;
+
+}
+.ha-re{
+   font-family:sans-serif;
+  font-size: 50px;
+  margin-bottom: 20px;
+
+}
+]
+.main-rapid,p{
+  font-size: 20px;
+  font-weight: 400;
+  color:white;
+  margin-bottom: 20px;
+}
+.kire-section{
+  background:snow;
+  display: flex;
+  /* justify-content: center; */
+}
+.kire-section,footer{
+  width: 100%;
+  position: absolute;
+  background: blue;
+  color: aliceblue;
+  padding: 100px 0 30px;
+  font-size: 20px;
+  line-height: 20px;
+  border-top-left-radius: 10px;
+  border-radius: 10px;
+
+}
